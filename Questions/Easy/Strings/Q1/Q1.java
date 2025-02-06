@@ -1,4 +1,4 @@
-package Q1;
+package Strings.Q1;
 class Solution {
     public static void main(String[] args) {
         String s1 = "siyolsdcjthwsiplccjbuceoxmpjgrauocx";
